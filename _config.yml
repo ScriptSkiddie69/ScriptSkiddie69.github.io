@@ -1,5 +1,8 @@
-title: pecter.lua
-description: pecter.lua is a script for roblox that boosts ur entertainment
-remote_theme: pages-themes/modernist@v0.2.0
+remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Pecter.Lua
+description: Pecter.Lua is an script designed to make u goood at a game for roblox
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
